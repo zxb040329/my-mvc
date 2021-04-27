@@ -1,0 +1,9 @@
+<beans>
+    <context:component-scan basePackage="com.example"/>
+
+
+    <bean id="" class="">
+        <property prefix="/WEB-INF/"></property>
+        <property suffix="/WEB-INF/"></property>
+    </bean>
+</beans>
